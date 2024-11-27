@@ -1,0 +1,7 @@
+{
+  "deleteOption": ".trash",
+  "logsModal": true,
+  "excludedFolders": ".devcontainer,.git,.github,.jekyll-cache.ruby-lsp,.vscode,_data,_includes,_layouts,_plugins,_sass,_site,_tabs,assets,tools,touxiang",
+  "ribbonIcon": true,
+  "excludeSubfolders": true
+}
