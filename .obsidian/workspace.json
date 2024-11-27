@@ -138,9 +138,19 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "aaa38535296a7c94",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -152,7 +162,8 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "222c39a882a4f9be",
