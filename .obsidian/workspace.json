@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:chirpy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d379f38d0e0db052",
+  "active": "db247cb64176c6dc",
   "lastOpenFiles": [
+    "assets",
     "_site/posts/welcome-to-my-blog/index.html",
     "_site/posts/welcome-to-my-blog",
     "_site/categories/blog/index.html",
@@ -186,7 +187,6 @@
     "_site/tags/jekyll/index.html",
     "_site/tags/jekyll",
     "_posts/2024-11-27-welcome-to-my-blog.md",
-    "_site/assets/js/dist/page.min.js",
     "_site/assets/img/favicons/mstile-150x150.png",
     "_site/assets/img/favicons/favicon-32x32.png",
     "_site/assets/img/favicons/favicon-16x16.png",
