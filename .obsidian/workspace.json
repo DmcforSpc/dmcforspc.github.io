@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a261b0760ea2598",
+        "id": "7ee76256c8ec85b3",
         "type": "tabs",
         "children": [
           {
-            "id": "00bbffd05abcc412",
+            "id": "db247cb64176c6dc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "_posts/2024-11-27-测试.md",
-                "staged": true
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (2024-11-27-测试)"
+              "icon": "lucide-file",
+              "title": "2024-11-27-测试"
             }
           }
         ]
@@ -171,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00bbffd05abcc412",
+  "active": "db247cb64176c6dc",
   "lastOpenFiles": [
     "_posts/2024-11-27-测试.md",
     "_site/about/index.html",
