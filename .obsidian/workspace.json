@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "aa410c439e232c78",
+        "id": "2a261b0760ea2598",
         "type": "tabs",
         "children": [
           {
-            "id": "af51acf00ae4fe01",
+            "id": "00bbffd05abcc412",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "_posts/2024-11-27-测试.md",
-                "mode": "source",
-                "source": false
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "2024-11-27-测试"
+              "icon": "git-pull-request",
+              "title": "Diff View (2024-11-27-测试)"
             }
           }
         ]
@@ -172,8 +171,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "312680099a464952",
+  "active": "00bbffd05abcc412",
   "lastOpenFiles": [
+    "_posts/2024-11-27-测试.md",
     "_site/about/index.html",
     "_site/about",
     "_site/archives/index.html",
@@ -185,14 +185,12 @@
     "_site/assets/img/favicons/mstile-150x150.png",
     "_site/assets/img/favicons/site.webmanifest",
     "_site/assets/js/dist/post.min.js",
-    "_site/assets/js/dist/categories.min.js",
     "_site/assets/img/favicons/favicon-32x32.png",
     "_site/assets/img/favicons/favicon-16x16.png",
     "_site/assets/img/favicons/apple-touch-icon.png",
     "_site/assets/img/favicons/android-chrome-512x512.png",
     "_site/assets/img/favicons/android-chrome-192x192.png",
     "_site/touxiang/m.png",
-    "_posts/2024-11-27-测试.md",
     "_tabs/tags.md",
     "_tabs/archives.md",
     "_tabs/about.md",
