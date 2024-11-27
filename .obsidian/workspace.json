@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "997c0880915d9b81",
+        "id": "aa410c439e232c78",
         "type": "tabs",
         "children": [
           {
-            "id": "222c39a882a4f9be",
+            "id": "af51acf00ae4fe01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -166,24 +172,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "222c39a882a4f9be",
+  "active": "af51acf00ae4fe01",
   "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
+    "index.html",
+    "Gemfile",
+    "_config.yml",
+    "touxiang/m.png",
+    "touxiang",
+    "tools/test.sh",
+    "tools/run.sh",
+    "tools",
+    "_tabs/about.md",
+    "_tabs/tags.md",
+    "_tabs/categories.md",
+    "_tabs/archives.md",
+    "_tabs",
+    "_posts",
     "chirpy-starter-main/_tabs/archives.md",
     "chirpy-starter-main/README.md",
-    "study/whiterose-src.tar.gz",
     "study/白玫瑰.md",
-    "2024比赛/红明谷杯2024/2024红明谷wp.pdf",
     "2024比赛/红明谷杯2024/Writeup.md",
     "渗透练习/THM/技巧.md",
     "渗透练习/note.md",
-    "渗透练习/THM",
     "渗透练习/HTB/Runner.md",
     "渗透练习/HTB/Perfection.md",
     "渗透练习/HTB/Headless.md",
     "渗透练习/HTB/Devvortex.md",
     "渗透练习/HTB/Bizness.md",
     "2024比赛/江苏省第二届数据安全技术应用职业技能竞赛/Writeup.md",
-    "README.md",
     "CTF 知识库/WEB/反序列化/PHP程序解密/雏形系统.md",
     "2024比赛/江苏省第二届数据安全技术应用职业技能竞赛选拔赛实题例题/Writeup.md",
     "CTF 知识库/Misc/eztest.md",
@@ -192,16 +210,8 @@
     "2024比赛/江苏省首届工业互联网2024/Writeup.md",
     "CTF 知识库/Misc/流量分析/AES-256.md",
     "CTF 知识库/Misc/流量分析/记一次简单的流量分析.md",
-    "study/攻击流程.md",
-    "study/Centos7 Apache+MyqSQL+PHP 搭建服务.md",
-    "study/学习笔记.md",
-    "study/快速搭建CTF环境.md",
-    "siit平台附件/Writeup.md",
-    "春秋云镜",
-    "2024比赛/ISG观安杯2024/wp.pdf",
     "2024比赛/SFeatherCTF/attachments/Pasted image 20241006192050.png",
     "未命名.canvas",
-    "gs",
     "2024比赛/newstar2024/attachments/Pasted image 20241006103335.png",
     "2024比赛/newstar2024/attachments/Pasted image 20241006102424.png",
     "2024比赛/newstar2024/attachments/Pasted image 20241006101316.png",
@@ -209,11 +219,6 @@
     "2024比赛/newstar2024/attachments/Pasted image 20241006095013.png",
     "2024比赛/newstar2024/attachments/Pasted image 20241006094746.png",
     "2024比赛/newstar2024/attachments/Pasted image 20241006093141.png",
-    "2024比赛/newstar2024/attachments/Pasted image 20241006093037.png",
-    "2024比赛/newstar2024/attachments/Pasted image 20241006092452.png",
-    "2024比赛/newstar2024/attachments",
-    "2024比赛/newstar2024",
-    "2024比赛/SFeatherCTF/attachments",
-    "2024比赛/SFeatherCTF"
+    "2024比赛/newstar2024/attachments/Pasted image 20241006093037.png"
   ]
 }
