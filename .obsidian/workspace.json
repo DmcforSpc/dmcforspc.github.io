@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "840a919be4d6a643",
+    "type": "split",
+    "children": [
+      {
+        "id": "997c0880915d9b81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "222c39a882a4f9be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e432ec4109c0f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57a956df913794d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "312680099a464952",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d379f38d0e0db052",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b04f015e5bd270c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "7de3fc7ebc3ec63f",
+    "type": "split",
+    "children": [
+      {
+        "id": "db64c6aa130fb4f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e450965073cdb57b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "95448f64aba59742",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c46109d10b6880a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "886e4cef14d98053",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "222c39a882a4f9be",
+  "lastOpenFiles": [
+    "chirpy-starter-main/_tabs/archives.md",
+    "chirpy-starter-main/README.md",
+    "study/whiterose-src.tar.gz",
+    "study/白玫瑰.md",
+    "2024比赛/红明谷杯2024/2024红明谷wp.pdf",
+    "2024比赛/红明谷杯2024/Writeup.md",
+    "渗透练习/THM/技巧.md",
+    "渗透练习/note.md",
+    "渗透练习/THM",
+    "渗透练习/HTB/Runner.md",
+    "渗透练习/HTB/Perfection.md",
+    "渗透练习/HTB/Headless.md",
+    "渗透练习/HTB/Devvortex.md",
+    "渗透练习/HTB/Bizness.md",
+    "2024比赛/江苏省第二届数据安全技术应用职业技能竞赛/Writeup.md",
+    "README.md",
+    "CTF 知识库/WEB/反序列化/PHP程序解密/雏形系统.md",
+    "2024比赛/江苏省第二届数据安全技术应用职业技能竞赛选拔赛实题例题/Writeup.md",
+    "CTF 知识库/Misc/eztest.md",
+    "CTF 知识库/Misc/Misc_ordinary.md",
+    "CTF 知识库/Misc/Misc_AH(DA).md",
+    "2024比赛/江苏省首届工业互联网2024/Writeup.md",
+    "CTF 知识库/Misc/流量分析/AES-256.md",
+    "CTF 知识库/Misc/流量分析/记一次简单的流量分析.md",
+    "study/攻击流程.md",
+    "study/Centos7 Apache+MyqSQL+PHP 搭建服务.md",
+    "study/学习笔记.md",
+    "study/快速搭建CTF环境.md",
+    "siit平台附件/Writeup.md",
+    "春秋云镜",
+    "2024比赛/ISG观安杯2024/wp.pdf",
+    "2024比赛/SFeatherCTF/attachments/Pasted image 20241006192050.png",
+    "未命名.canvas",
+    "gs",
+    "2024比赛/newstar2024/attachments/Pasted image 20241006103335.png",
+    "2024比赛/newstar2024/attachments/Pasted image 20241006102424.png",
+    "2024比赛/newstar2024/attachments/Pasted image 20241006101316.png",
+    "2024比赛/newstar2024/attachments/Pasted image 20241006100552.png",
+    "2024比赛/newstar2024/attachments/Pasted image 20241006095013.png",
+    "2024比赛/newstar2024/attachments/Pasted image 20241006094746.png",
+    "2024比赛/newstar2024/attachments/Pasted image 20241006093141.png",
+    "2024比赛/newstar2024/attachments/Pasted image 20241006093037.png",
+    "2024比赛/newstar2024/attachments/Pasted image 20241006092452.png",
+    "2024比赛/newstar2024/attachments",
+    "2024比赛/newstar2024",
+    "2024比赛/SFeatherCTF/attachments",
+    "2024比赛/SFeatherCTF"
+  ]
+}
