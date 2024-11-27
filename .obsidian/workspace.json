@@ -11,10 +11,14 @@
             "id": "db247cb64176c6dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-11-27-welcome-to-my-blog.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2024-11-27-welcome-to-my-blog"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:chirpy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,11 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2024-11-27-welcome-to-my-blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "2024-11-27-welcome-to-my-blog 的出链列表"
             }
           },
           {
@@ -133,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "_posts/2024-11-27-welcome-to-my-blog.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2024-11-27-welcome-to-my-blog 的大纲"
             }
           },
           {
@@ -165,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db247cb64176c6dc",
+  "active": "d379f38d0e0db052",
   "lastOpenFiles": [
     "_site/posts/welcome-to-my-blog/index.html",
     "_site/posts/welcome-to-my-blog",
