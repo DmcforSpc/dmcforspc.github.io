@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/测试.md",
+                "file": "_posts/2024-11-27-测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "2024-11-27-测试"
             }
           }
         ]
@@ -172,25 +172,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af51acf00ae4fe01",
+  "active": "312680099a464952",
   "lastOpenFiles": [
-    "_posts/测试.md",
+    "_site/about/index.html",
+    "_site/about",
+    "_site/archives/index.html",
+    "_site/archives",
+    "_site/tags/index.html",
+    "_site/tags",
+    "_site/categories/index.html",
+    "_site/categories",
+    "_site/assets/img/favicons/mstile-150x150.png",
+    "_site/assets/img/favicons/site.webmanifest",
+    "_site/assets/js/dist/post.min.js",
+    "_site/assets/js/dist/categories.min.js",
+    "_site/assets/img/favicons/favicon-32x32.png",
+    "_site/assets/img/favicons/favicon-16x16.png",
+    "_site/assets/img/favicons/apple-touch-icon.png",
+    "_site/assets/img/favicons/android-chrome-512x512.png",
+    "_site/assets/img/favicons/android-chrome-192x192.png",
+    "_site/touxiang/m.png",
+    "_posts/2024-11-27-测试.md",
     "_tabs/tags.md",
     "_tabs/archives.md",
     "_tabs/about.md",
     "touxiang/m.png",
     "README.md",
-    "LICENSE",
-    "index.html",
-    "Gemfile",
-    "_config.yml",
-    "touxiang",
-    "tools/test.sh",
-    "tools/run.sh",
-    "tools",
     "_tabs/categories.md",
-    "_tabs",
-    "_posts",
     "chirpy-starter-main/_tabs/archives.md",
     "chirpy-starter-main/README.md",
     "study/白玫瑰.md",
@@ -210,16 +218,8 @@
     "CTF 知识库/Misc/Misc_AH(DA).md",
     "2024比赛/江苏省首届工业互联网2024/Writeup.md",
     "CTF 知识库/Misc/流量分析/AES-256.md",
-    "CTF 知识库/Misc/流量分析/记一次简单的流量分析.md",
     "2024比赛/SFeatherCTF/attachments/Pasted image 20241006192050.png",
     "未命名.canvas",
-    "2024比赛/newstar2024/attachments/Pasted image 20241006103335.png",
-    "2024比赛/newstar2024/attachments/Pasted image 20241006102424.png",
-    "2024比赛/newstar2024/attachments/Pasted image 20241006101316.png",
-    "2024比赛/newstar2024/attachments/Pasted image 20241006100552.png",
-    "2024比赛/newstar2024/attachments/Pasted image 20241006095013.png",
-    "2024比赛/newstar2024/attachments/Pasted image 20241006094746.png",
-    "2024比赛/newstar2024/attachments/Pasted image 20241006093141.png",
-    "2024比赛/newstar2024/attachments/Pasted image 20241006093037.png"
+    "2024比赛/newstar2024/attachments/Pasted image 20241006103335.png"
   ]
 }
