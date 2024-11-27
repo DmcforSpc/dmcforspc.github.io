@@ -92,7 +92,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # 侧边栏的头像，支持本地文件或跨域资源（CORS）
-avatar: touxiang/m.png
+avatar: /touxiang/m.png
 
 # 用于社交分享的预览图像，SEO `og:image` 元标签会使用这个图像
 # 可以在页面的 Front Matter 中通过 `page.image` 来覆盖此设置
