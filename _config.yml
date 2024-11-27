@@ -7,7 +7,7 @@ theme: jekyll-theme-chirpy  # 使用 Chirpy 主题
 lang: en  # 网站语言，选择英文
 
 # 设置时区 › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:  # 可以设置你的时区，例如 "Asia/Shanghai"
+timezone: Asia/Shanghai  # 可以设置你的时区，例如 "Asia/Shanghai"
 
 # jekyll-seo-tag 插件设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -17,7 +17,7 @@ title: D.FS  # 站点主标题
 tagline: 田里的麦子熟了,我的梦也该醒了  # 站点副标题，将显示在页面下方
 
 description: >-  # 用于 SEO 元标签和 atom feed
-  田里的麦子熟了,我的梦也该醒了  # 站点描述，简短的关于网站的说明
+
 
 # 填写站点的协议和主机名
 # 例如，'https://username.github.io'，注意不要以 '/' 结尾
@@ -25,18 +25,18 @@ url: ""  # 如果部署到 GitHub Pages，可以留空，GitHub 会自动处理
 
 # GitHub 设置
 github:
-  username: github_username  # 你的 GitHub 用户名
+  username: DmcforSpc  # 你的 GitHub 用户名
 
 # Twitter 设置
-twitter:
-  username: twitter_username  # 你的 Twitter 用户名
+# twitter:
+#   username: twitter_username  # 你的 Twitter 用户名
 
 # 社交媒体链接
 social:
-  name: your_full_name  # 显示为默认的作者名称
-  email: example@domain.com  # 你的邮箱地址
+  name: dmcfor_spc  # 显示为默认的作者名称
+  email: dmcfor_spc@outlook.com  # 你的邮箱地址
   links:
-    - https://twitter.com/username  # 你的 Twitter 主页链接
+    # - https://twitter.com/username  # 你的 Twitter 主页链接
     - https://github.com/username  # 你的 GitHub 主页链接
     # 可以取消注释以下内容来添加更多社交媒体链接
     # - https://www.facebook.com/username
@@ -83,7 +83,7 @@ pageviews:
 # 可选值：
 #     light — 使用浅色主题
 #     dark — 使用深色主题
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # 媒体资源的 CDN 地址
 # 一旦配置了 CDN，所有媒体资源（如站点头像、文章图片、音频和视频文件）的路径都会加上 CDN URL
